@@ -1,2 +1,2 @@
 # PyRVR
-A Python wrapper for RVR.
+A wrapper for RVR.
